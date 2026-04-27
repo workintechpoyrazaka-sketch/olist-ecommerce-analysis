@@ -220,4 +220,4 @@ Notebook 04 auto-exports the deck to PDF if LibreOffice is available (`sudo apt 
 
 *Built by Poi — currently 9 months into a Workintech Data Analyst → Data Scientist program, building toward freelance data work by August 2026. This project is part of the portfolio: an end-to-end analytical case study with statistical rigor, effect-size discipline, and finding-driven communication on a public e-commerce dataset.*
 
-**Contact:** [GitHub](https://github.com/workintechpoyrazaka-sketch) · [LinkedIn](https://linkedin.com/in/poi) · poi@example.com
+**Contact:** [GitHub](https://github.com/workintechpoyrazaka-sketch) · [LinkedIn](https://linkedin.com/in/adilpoyrazaka) · akaadilpoyraz@gmail.com

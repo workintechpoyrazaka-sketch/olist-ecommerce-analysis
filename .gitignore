@@ -19,3 +19,6 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Windows NTFS alternate data streams from /mnt/c/ copies
+*:Zone.Identifier
